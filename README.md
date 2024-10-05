@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ralph99
-- 👀 I’m interested in data analytics, SEO, web scraping, Django and Flask
-- 🌱 I’m currently working as a Machine Learning Engineer @Acceede-HQ
-- 💞️ I’m looking to collaborate on AI and Data Analysis projects
+- 👀 I’m interested in Data Analytics, Machine Learning, Django.
+- 🌱 I’m currently working as a Machine Learning Researcher and Technical Writer
+- 💞️ I’m always interested in AI and Data Analysis projects
 - 📫 How to reach me: X: @rhythmjames1
 
 <!---
